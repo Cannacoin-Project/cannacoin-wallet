@@ -1,0 +1,24 @@
+Dit is een standalone Cannacoin Wallet voor uw Android apparaat. U kan direct Cannacoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+
+FUNCTIES:
+
+• Weergeven van het wallet saldo in Cannacoin en verschillende andere valuta.
+• Verzenden en ontvangen van Cannacoin via NFC, QR-codes of Cannacoin URLs.
+• Adresboek voor veelgebruikte Cannacoin adressen.
+• Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
+• Systeem melding over Cannacoin connectiviteit en ontvangen cannacoins.
+• Widget voor Cannacoin saldo.
+
+Voor meer informatie over Cannacoin kunt u terecht op
+http://cannacoin.org
+
+Als u een bijdrage wil leveren aan Cannacoin Wallet, het project is te vinden op
+https://github.com/cannacoin-project/cannacoin-wallet
+
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Cannacoin by me.
+Find the original at
+https://play.google.com/store/apps/details?id=de.schildbach.wallet
+
+Licentie: GPLv3
+Gebruik op eigen risico!
+http://www.gnu.org/licenses/gpl-3.0.en.html

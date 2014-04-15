@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>CCN, 8位數</item>
+		<item>CCN, 6位數</item>
+		<item>CCN, 4位數</item>
+		<item>mCCN, 2位數</item>
+	</string-array>
+
+</resources>

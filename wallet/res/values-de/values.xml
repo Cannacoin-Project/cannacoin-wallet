@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>CCN, 8 Dezimalen</item>
+		<item>CCN, 6 Dezimalen</item>
+		<item>CCN, 4 Dezimalen</item>
+		<item>mCCN, 2 Dezimalen</item>
+	</string-array>
+
+</resources>

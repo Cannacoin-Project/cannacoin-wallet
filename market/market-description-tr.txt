@@ -1,0 +1,26 @@
+Cannacoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Cannacoin cüzdanı ilk mobil Cannacoin uygulamasıdır ve muhtemelen en güvenli Cannacoin uygulamasıdır!
+
+İŞLEVLERİ:
+
+• Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
+• Cannacoin meblağlarının CCN ve mCCN olarak gösterilmesi.
+• Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
+• NFC, QR kodu veya Cannacoin bağlantıları ile Cannacoin gönderir ve alır.
+• Sık kullanılan Cannacoin adresleri için adres defteri içerir.
+• Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
+• Alınan cannacoin'ler için sistem bildirimleri.
+• Cannacoin bakiyesini görüntüleyen widget.
+
+Cannacoin hakkında daha fazla bilgiyi şurada bulabilirsiniz:
+http://cannacoin.org
+
+Cannacoin Wallet'e iştirak etmek istiyorsanız, projenin adresi şudur:
+https://github.com/cannacoin-project/cannacoin-wallet
+
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Cannacoin by me.
+Find the original at
+https://play.google.com/store/apps/details?id=de.schildbach.wallet
+
+Lisans: GPLv3
+Tüm riski siz üstlenmiş olursunuz.
+http://www.gnu.org/licenses/gpl-3.0.en.html

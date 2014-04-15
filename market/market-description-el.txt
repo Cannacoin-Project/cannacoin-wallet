@@ -1,0 +1,24 @@
+Αυτό είναι ένα αυτόνομο Cannacoin Πορτοφόλι για την Android συσκευή σας. Μπορείτε να στείλετε Cannacoin μεταξύ τηλεφώνων μόνο με σάρωση του QR κώδικα που εμφανίζεται από την εφαρμογή. Ή μέσω του NFC (Near Field Communication).
+
+ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ:
+
+• Προβολή του υπολοίπου του πορτοφολιού στο Cannacoin και σε διάφορα άλλα νομίσματα.
+• Αποστολή και λήψη Cannacoin μέσω NFC, QR-κωδικούς ή τη χρήση Cannacoin διευθύνσεων URL.
+• Κατάλογος διευθύνσεων για τις δημοφιλείς διευθύνσεις Cannacoin.
+• συναλλαγές που εισάγονται χωρίς σύνδεση, εκτελούνται όταν συνδεθεί η συσκευή στο διαδίκτειο.
+• Σύστημα ειδοποιήσεις για τη Cannacoin συνδεσιμότητα και τα ληφθειντα νομίσματα.
+• App widget για το υπόλοιπο των Cannacoin.
+
+Μπορείτε να βρείτε περισσότερα για τη χρήση Cannacoin στο
+http://cannacoin.org
+
+Αν θέλετε να συμβάλει στη τη χρήση του Cannacoin Wallet, το έργο βρίσκεται εδώ:
+https://github.com/cannacoin-project/cannacoin-wallet
+
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Cannacoin by me.
+Find the original at
+https://play.google.com/store/apps/details?id=de.schildbach.wallet
+
+Άδεια: GPLv3
+Χρησιμοποιήστε με δική σας ευθύνη!
+http://www.gnu.org/licenses/gpl-3.0.en.html

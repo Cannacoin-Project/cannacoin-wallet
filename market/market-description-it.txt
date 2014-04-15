@@ -1,0 +1,26 @@
+﻿Porta i tuoi Cannacoin sempre con te, in tasca! Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Cannacoin Wallet è la prima Cannacoin app mobile, e probabilmente anche la più sicura!
+
+CARATTERISTICHE:
+
+• Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
+• Mostra l'ammontare di Cannacoin in CCN e mCCN.
+• Conversione verso e dalle monete nazionali.
+• Invio e ricevimento di Cannacoin tramite NFC, codici QR o URL Cannacoin.
+• Rubrica degli indirizzi per usare indirizzi Cannacoin regolarmente.
+• Quando sei offline, puoi comunque ancora pagare via Bluetooth.
+• Sistema di notifica per le monete ricevute.
+• App Widget per il saldo Cannacoin
+
+Puoi trovare altri dettagli su Cannacoin su
+http://cannacoin.org
+
+Se vuoi contribuire a Cannacoin Wallet, il progetto si trova su
+https://github.com/schildbach/cannacoin-wallet
+
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Cannacoin by me.
+Find the original at
+https://play.google.com/store/apps/details?id=de.schildbach.wallet
+
+Licenza: GPLv3
+Usalo a tuo rischio!
+http://www.gnu.org/licenses/gpl-3.0.en.html

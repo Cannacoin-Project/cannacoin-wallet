@@ -1,0 +1,26 @@
+﻿ドージコインを持ち歩こう、いつでもあなたのポケットに！QRコードスキャンで素早く支払。バイヤーとしても、即座にかつ確実に支払を受取り。 ドージコインウォレットは初めてのモバイルドージコインアプリ、そして間違いなく最も安全なアプリでもあります！
+
+特徴:
+
+• 登録必要なし、ウェブサービスもクラウドもいりません！このウォレットは分散型P2Pです。
+• ドージコインの表示がCCNとmCCN。
+• 自国通貨へ・からの変換表示。
+• NFC、QRコード、ドージコインURLでの送金や受取。
+• 良く使うドージコインアドレスのためのアドレスブック。
+• オフラインの時、Bluetoothでも支払い可能。
+• コイン受取のシステム通知。
+• ドージコイン収支のためのヴィジット。
+
+ドージコインについての詳細は
+http://cannacoin.org
+
+もしドージコインウォレットへの開発協力をご希望なら、プロジェクトはこちら
+https://github.com/cannacoin-project/cannacoin-wallet
+
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Cannacoin by me.
+Find the original at
+https://play.google.com/store/apps/details?id=de.schildbach.wallet
+
+ライセンス: GPLv3
+自己責任でご利用ください！
+http://www.gnu.org/licenses/gpl-3.0.ja.html
