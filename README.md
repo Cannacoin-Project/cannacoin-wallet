@@ -1,7 +1,5 @@
 Welcome to _Cannacoin Wallet_, a standalone Cannacoin payment app for your Android device!
 
-WARNING: THIS PROJECT IS NOT YET COMPLETE AND STILL REQUIRES A MODIFIED VERSION OF BITCOINJ FOR CANNACOIN. UPDATES TO COME SOON.
-
 This project contains several sub-projects:
 
  * __wallet__:
